@@ -5,7 +5,7 @@ import { io } from "socket.io-client";
 import EmojiPicker from "emoji-picker-react"; // Import emoji-picker-react
 
 // Connect to the Socket.io server
-const socket = io("http://localhost:3000", {
+const socket = io("https://chat-app-lake-nine-42.vercel.app/", {
   path: "/socket_io",
   transports: ["websocket"],
 });

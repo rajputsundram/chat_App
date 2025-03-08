@@ -34,3 +34,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Real-Time Chat App with Emoji Picker
+
+This is a real-time chat application built with Next.js and Socket.io. The app includes a responsive user interface, dark/light theme toggle, and an integrated emoji picker similar to WhatsApp.
+
+## Features
+
+- **Real-time chat:** Communicate with multiple users in real time.
+- **Responsive UI:** The layout adapts to mobile, tablet, and desktop devices.
+- **Dark/Light mode:** Toggle between dark and light themes.
+- **Emoji Picker:** Easily insert emojis into your messages.
+- **Multiple user testing:** Easily test with multiple browser tabs.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-chat-app.git
+   cd your-chat-app
